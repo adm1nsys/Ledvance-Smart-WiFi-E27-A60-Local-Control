@@ -1,4 +1,15 @@
-# Ledvance Smart+ WiFi E27 A60 — local control
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset=".github/readme/banner-light.svg">
+  <img src=".github/readme/banner-dark.svg" alt="LEDVANCE A60 local — Control the E27 A60 bulb without the cloud" width="100%">
+</picture>
+
+<p>
+  <a href="https://adm1nsys.github.io/Ledvance-Smart-WiFi-E27-A60-Local-Control/"><img src="https://img.shields.io/badge/Website-070707?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/adm1nsys/Ledvance-Smart-WiFi-E27-A60-Local-Control/releases/latest/download/LedvanceE27A60.py"><img src="https://img.shields.io/badge/Download-070707?style=for-the-badge&logo=python&logoColor=white" alt="Download LedvanceE27A60.py"></a>
+  <a href="https://adm1nsys.github.io/Ledvance-Smart-WiFi-E27-A60-Local-Control/#versions"><img src="https://img.shields.io/badge/All_versions-070707?style=for-the-badge&logo=github&logoColor=white" alt="All versions"></a>
+  <a href="https://adm1nsys.github.io/Ledvance-A60-Plugin/"><img src="https://img.shields.io/badge/Homebridge_plugin-070707?style=for-the-badge&logo=homebridge&logoColor=white" alt="Homebridge plugin"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-070707?style=for-the-badge&labelColor=070707&color=434343" alt="MIT license"></a>
+</p>
 
 A command-line tool that controls the LEDVANCE Smart+ WiFi E27 A60 RGBW bulb over the local network — no cloud, no app. It talks to the bulb directly with [TinyTuya](https://github.com/jasonacox/tinytuya) using Tuya protocol 3.5.
 
