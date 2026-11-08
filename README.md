@@ -51,7 +51,7 @@ python LedvanceE27A60.py a1b2c3d4e5f6g7h8ijklmn 192.168.0.238 'WQ!zYx8#kLp3vBn@'
 
 ## Tested on
 
-[LEDVANCE SMART+ WIFI CLASSIC 60, 9 W, 2700–6500 K, E27](https://www.ledvance.com/en-int/home-lighting/products/smart-home/smart-lamps/smart-wifi/smart-classic-heatsink-lamps-with-wifi-technology/classic-bulb-shape-with-wifi-technology-c6443?productId=83025), firmware: main module V1.5.32, MCU module V1.5.32, RN bundle V1.3.0 — in 2025, on my own bulb. Other Tuya-based LEDVANCE bulbs probably use the same data points, but I have not checked.
+LEDVANCE SMART+ WIFI CLASSIC 60, 9 W, 2700–6500 K, E27, datasheet (download PDF): [EN](https://www.ledvance.com/en-int/product-datasheet/6443/83025) · [DE](https://www.ledvance.com/de/product-datasheet/6443/83025); firmware: main module V1.5.32, MCU module V1.5.32, RN bundle V1.3.0 — in 2025, on my own bulb. Other Tuya-based LEDVANCE bulbs probably use the same data points, but I have not checked.
 
 ## License
 
